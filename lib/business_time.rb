@@ -9,4 +9,4 @@ require 'business_time/business_days'
 require 'business_time/core_ext/date'
 require 'business_time/core_ext/time'
 require 'business_time/core_ext/fixnum'
-
+require 'business_time/core_ext/range'
